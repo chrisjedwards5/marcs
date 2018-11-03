@@ -1,0 +1,716 @@
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(TSSOP20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP2515-I/ST"; VariantName = "[No Variations]"
+Added Component: Designator=Additional_Digital_1(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional_Digital_2(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional_I2C_1(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional_I2C_2(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional_I2C_3(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional Analog 1(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Additional Analog 2(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Antenna(IPL1-102-01-XXX-S-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED"; Value = "February 14, 2016 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "IPL1-102-01-XXX-S-RA"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAN Connector(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Encoder ADC(ADC128D818 V3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "i2c Address"; Value = "0x1D"; VariantName = "[No Variations]"
+Added Component: Designator=Encoder Connector(TFM-105-01-L-D-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(0501020.WR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F2(0501020.WR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=fan back-left(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=fan back-right(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=fan front-left(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=fan front-right(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Infrared 1(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Infrared 2(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Infrared 3(TFM-104-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LiPo(PET-02-01-S-RA-SD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=N1(ADAFRUIT IMU)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2472"; VariantName = "[No Variations]"
+Added Component: Designator=N2(ADAFRUIT ULTIMATE GPS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(i6a4w020A033V-001-R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "i6a4w020A033V"; VariantName = "[No Variations]"
+Added Component: Designator=P2(i6a4w020A033V-001-R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "i6a4w020A033V"; VariantName = "[No Variations]"
+Added Component: Designator=P3(TLV733P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(SOIC-8 V3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(SOIC-8 V3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Power MDD10A.1-3(IPL1-103-01-XXX-D-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED"; Value = "July 16, 2014 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "IPL1-103-01-XXX-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IPL1-103-01-F-D-RA-K-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Power MDD10A.4-6(IPL1-103-01-XXX-D-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED"; Value = "July 16, 2014 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "IPL1-103-01-XXX-D-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IPL1-103-01-F-D-RA-K-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RADJ1(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RADJ2(0805R-GENERIC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Signal MDD10A.1(IPL1-105-01-S-RA-K)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Signal MDD10A.2/3(IPL1-105-01-F-D-RA-K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM11424-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Signal MDD10A.4(IPL1-105-01-S-RA-K)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Signal MDD10A.5/6(IPL1-105-01-F-D-RA-K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM11424-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TX2_I2C(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TX2 PWR(IPL1-102-01-XXX-S-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED"; Value = "February 14, 2016 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "IPL1-102-01-XXX-S-RA"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ADC128D818 V3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "i2c Address"; Value = "0x1F"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ADC128D818 V3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "i2c Address"; Value = "0x37"; VariantName = "[No Variations]"
+Added Component: Designator=U?(ADC128D818 V3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "i2c Address"; Value = "0x35"; VariantName = "[No Variations]"
+Added Component: Designator=Ultrasonic 1(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ultrasonic 2(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Ultrasonic 3(TFM-103-01-L-S-WT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USBHub(IPL1-102-01-XXX-S-RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED"; Value = "February 14, 2016 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "IPL1-102-01-XXX-S-RA"; VariantName = "[No Variations]"
+Added Component: Designator=X?(GC0800044)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "GC0800044TR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=*-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V_Divider_1.09V Pin=R?-1
+Added Pin To Net: NetName=5V_Divider_1.09V Pin=R?-1
+Added Pin To Net: NetName=5V_Divider_1.09V Pin=U?-11
+Added Net: Name=5V_Divider_1.09V
+Added Pin To Net: NetName=5V Pin=*-8
+Added Pin To Net: NetName=5V Pin=*-14
+Added Pin To Net: NetName=5V Pin=*-20
+Added Pin To Net: NetName=5V Pin=Additional_Digital_1-1
+Added Pin To Net: NetName=5V Pin=Additional_Digital_2-1
+Added Pin To Net: NetName=5V Pin=Additional_I2C_1-4
+Added Pin To Net: NetName=5V Pin=Additional_I2C_2-4
+Added Pin To Net: NetName=5V Pin=Additional_I2C_3-4
+Added Pin To Net: NetName=5V Pin=Additional Analog 1-1
+Added Pin To Net: NetName=5V Pin=Additional Analog 2-1
+Added Pin To Net: NetName=5V Pin=C-1
+Added Pin To Net: NetName=5V Pin=C-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=5V Pin=Encoder ADC-1
+Added Pin To Net: NetName=5V Pin=Encoder ADC-5
+Added Pin To Net: NetName=5V Pin=Encoder ADC-6
+Added Pin To Net: NetName=5V Pin=Encoder Connector-9
+Added Pin To Net: NetName=5V Pin=Infrared 1-4
+Added Pin To Net: NetName=5V Pin=Infrared 2-4
+Added Pin To Net: NetName=5V Pin=Infrared 3-4
+Added Pin To Net: NetName=5V Pin=N1-1
+Added Pin To Net: NetName=5V Pin=P1-6
+Added Pin To Net: NetName=5V Pin=P1-7
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=5V Pin=P3-3
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=5V Pin=P?-2
+Added Pin To Net: NetName=5V Pin=P?-8
+Added Pin To Net: NetName=5V Pin=P?-8
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=5V Pin=U?-5
+Added Pin To Net: NetName=5V Pin=U?-5
+Added Pin To Net: NetName=5V Pin=U?-5
+Added Pin To Net: NetName=5V Pin=U?-6
+Added Pin To Net: NetName=5V Pin=U?-6
+Added Pin To Net: NetName=5V Pin=U?-6
+Added Pin To Net: NetName=5V Pin=U?-7
+Added Pin To Net: NetName=5V Pin=U?-7
+Added Pin To Net: NetName=5V Pin=U?-8
+Added Pin To Net: NetName=5V Pin=U?-8
+Added Pin To Net: NetName=5V Pin=Ultrasonic 1-3
+Added Pin To Net: NetName=5V Pin=Ultrasonic 2-3
+Added Pin To Net: NetName=5V Pin=Ultrasonic 3-3
+Added Pin To Net: NetName=5V Pin=USBHub-1
+Added Net: Name=5V
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=R?-1
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=R?-1
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=R?-2
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=R?-2
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=U?-13
+Added Pin To Net: NetName=12V_Divider_1.09V Pin=U?-13
+Added Net: Name=12V_Divider_1.09V
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-3
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=*?-5
+Added Pin To Net: NetName=12V Pin=C-1
+Added Pin To Net: NetName=12V Pin=C-1
+Added Pin To Net: NetName=12V Pin=fan back-left-1
+Added Pin To Net: NetName=12V Pin=fan back-right-1
+Added Pin To Net: NetName=12V Pin=fan front-left-1
+Added Pin To Net: NetName=12V Pin=fan front-right-1
+Added Pin To Net: NetName=12V Pin=P2-6
+Added Pin To Net: NetName=12V Pin=P2-7
+Added Pin To Net: NetName=12V Pin=P?-1
+Added Pin To Net: NetName=12V Pin=P?-2
+Added Pin To Net: NetName=12V Pin=Power MDD10A.1-3-1
+Added Pin To Net: NetName=12V Pin=Power MDD10A.1-3-3
+Added Pin To Net: NetName=12V Pin=Power MDD10A.1-3-5
+Added Pin To Net: NetName=12V Pin=Power MDD10A.4-6-1
+Added Pin To Net: NetName=12V Pin=Power MDD10A.4-6-3
+Added Pin To Net: NetName=12V Pin=Power MDD10A.4-6-5
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-2
+Added Pin To Net: NetName=12V Pin=R?-2
+Added Pin To Net: NetName=12V Pin=TX2 PWR-1
+Added Net: Name=12V
+Added Pin To Net: NetName=24V Pin=*-7
+Added Pin To Net: NetName=24V Pin=*-10
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=*?-2
+Added Pin To Net: NetName=24V Pin=Additional_Digital_1-2
+Added Pin To Net: NetName=24V Pin=Additional_Digital_2-2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_1-2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_1-G1
+Added Pin To Net: NetName=24V Pin=Additional_I2C_1-G2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_2-2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_2-G1
+Added Pin To Net: NetName=24V Pin=Additional_I2C_2-G2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_3-2
+Added Pin To Net: NetName=24V Pin=Additional_I2C_3-G1
+Added Pin To Net: NetName=24V Pin=Additional_I2C_3-G2
+Added Pin To Net: NetName=24V Pin=Additional Analog 1-2
+Added Pin To Net: NetName=24V Pin=Additional Analog 2-2
+Added Pin To Net: NetName=24V Pin=Antenna-1
+Added Pin To Net: NetName=24V Pin=Antenna-2
+Added Pin To Net: NetName=24V Pin=C-2
+Added Pin To Net: NetName=24V Pin=C-2
+Added Pin To Net: NetName=24V Pin=C?-1
+Added Pin To Net: NetName=24V Pin=C?-1
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=CAN Connector-G1
+Added Pin To Net: NetName=24V Pin=CAN Connector-G2
+Added Pin To Net: NetName=24V Pin=Encoder ADC-4
+Added Pin To Net: NetName=24V Pin=Encoder ADC-7
+Added Pin To Net: NetName=24V Pin=Encoder ADC-8
+Added Pin To Net: NetName=24V Pin=Encoder Connector-10
+Added Pin To Net: NetName=24V Pin=Encoder Connector-G1
+Added Pin To Net: NetName=24V Pin=Encoder Connector-G2
+Added Pin To Net: NetName=24V Pin=F1-1
+Added Pin To Net: NetName=24V Pin=F2-1
+Added Pin To Net: NetName=24V Pin=fan back-left-2
+Added Pin To Net: NetName=24V Pin=fan back-left-G1
+Added Pin To Net: NetName=24V Pin=fan back-left-G2
+Added Pin To Net: NetName=24V Pin=fan back-right-2
+Added Pin To Net: NetName=24V Pin=fan back-right-G1
+Added Pin To Net: NetName=24V Pin=fan back-right-G2
+Added Pin To Net: NetName=24V Pin=fan front-left-2
+Added Pin To Net: NetName=24V Pin=fan front-left-G1
+Added Pin To Net: NetName=24V Pin=fan front-left-G2
+Added Pin To Net: NetName=24V Pin=fan front-right-2
+Added Pin To Net: NetName=24V Pin=fan front-right-G1
+Added Pin To Net: NetName=24V Pin=fan front-right-G2
+Added Pin To Net: NetName=24V Pin=Infrared 1-2
+Added Pin To Net: NetName=24V Pin=Infrared 1-G1
+Added Pin To Net: NetName=24V Pin=Infrared 1-G2
+Added Pin To Net: NetName=24V Pin=Infrared 2-2
+Added Pin To Net: NetName=24V Pin=Infrared 2-G1
+Added Pin To Net: NetName=24V Pin=Infrared 2-G2
+Added Pin To Net: NetName=24V Pin=Infrared 3-2
+Added Pin To Net: NetName=24V Pin=Infrared 3-G1
+Added Pin To Net: NetName=24V Pin=Infrared 3-G2
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-1
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-2
+Added Pin To Net: NetName=24V Pin=LiPo-G1
+Added Pin To Net: NetName=24V Pin=LiPo-G2
+Added Pin To Net: NetName=24V Pin=N1-3
+Added Pin To Net: NetName=24V Pin=N2-9
+Added Pin To Net: NetName=24V Pin=P1-2
+Added Pin To Net: NetName=24V Pin=P1-3
+Added Pin To Net: NetName=24V Pin=P2-2
+Added Pin To Net: NetName=24V Pin=P2-3
+Added Pin To Net: NetName=24V Pin=P3-2
+Added Pin To Net: NetName=24V Pin=P?-3
+Added Pin To Net: NetName=24V Pin=P?-3
+Added Pin To Net: NetName=24V Pin=P?-4
+Added Pin To Net: NetName=24V Pin=P?-4
+Added Pin To Net: NetName=24V Pin=P?-5
+Added Pin To Net: NetName=24V Pin=P?-5
+Added Pin To Net: NetName=24V Pin=Power MDD10A.1-3-2
+Added Pin To Net: NetName=24V Pin=Power MDD10A.1-3-4
+Added Pin To Net: NetName=24V Pin=Power MDD10A.1-3-6
+Added Pin To Net: NetName=24V Pin=Power MDD10A.4-6-2
+Added Pin To Net: NetName=24V Pin=Power MDD10A.4-6-4
+Added Pin To Net: NetName=24V Pin=Power MDD10A.4-6-6
+Added Pin To Net: NetName=24V Pin=R?-1
+Added Pin To Net: NetName=24V Pin=R?-1
+Added Pin To Net: NetName=24V Pin=R?-2
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.1-5
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.2/3-5
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.2/3-10
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.4-5
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.5/6-5
+Added Pin To Net: NetName=24V Pin=Signal MDD10A.5/6-10
+Added Pin To Net: NetName=24V Pin=TX2_I2C-3
+Added Pin To Net: NetName=24V Pin=TX2_I2C-G1
+Added Pin To Net: NetName=24V Pin=TX2_I2C-G2
+Added Pin To Net: NetName=24V Pin=TX2 PWR-2
+Added Pin To Net: NetName=24V Pin=U?-4
+Added Pin To Net: NetName=24V Pin=U?-4
+Added Pin To Net: NetName=24V Pin=U?-4
+Added Pin To Net: NetName=24V Pin=U?-7
+Added Pin To Net: NetName=24V Pin=U?-8
+Added Pin To Net: NetName=24V Pin=Ultrasonic 1-2
+Added Pin To Net: NetName=24V Pin=Ultrasonic 1-G1
+Added Pin To Net: NetName=24V Pin=Ultrasonic 1-G2
+Added Pin To Net: NetName=24V Pin=Ultrasonic 2-2
+Added Pin To Net: NetName=24V Pin=Ultrasonic 2-G1
+Added Pin To Net: NetName=24V Pin=Ultrasonic 2-G2
+Added Pin To Net: NetName=24V Pin=Ultrasonic 3-2
+Added Pin To Net: NetName=24V Pin=Ultrasonic 3-G1
+Added Pin To Net: NetName=24V Pin=Ultrasonic 3-G2
+Added Pin To Net: NetName=24V Pin=USBHub-2
+Added Net: Name=24V
+Added Pin To Net: NetName=Additional_DIO_1 Pin=Additional_Digital_1-3
+Added Net: Name=Additional_DIO_1
+Added Pin To Net: NetName=Additional_DIO_2 Pin=Additional_Digital_2-3
+Added Net: Name=Additional_DIO_2
+Added Pin To Net: NetName=Addl_Analog1 Pin=Additional Analog 1-3
+Added Pin To Net: NetName=Addl_Analog1 Pin=U?-13
+Added Net: Name=Addl_Analog1
+Added Pin To Net: NetName=Addl_Analog2 Pin=Additional Analog 2-3
+Added Pin To Net: NetName=Addl_Analog2 Pin=U?-12
+Added Net: Name=Addl_Analog2
+Added Pin To Net: NetName=C\S\_\3\V\3\ Pin=*-2
+Added Net: Name=C\S\_\3\V\3\
+Added Pin To Net: NetName=C\S\_\5\V\ Pin=*-13
+Added Pin To Net: NetName=C\S\_\5\V\ Pin=*-18
+Added Net: Name=C\S\_\5\V\
+Added Pin To Net: NetName=Device_SCL Pin=Additional_I2C_1-3
+Added Pin To Net: NetName=Device_SCL Pin=Additional_I2C_2-3
+Added Pin To Net: NetName=Device_SCL Pin=Additional_I2C_3-3
+Added Net: Name=Device_SCL
+Added Pin To Net: NetName=Device_SDA Pin=Additional_I2C_1-1
+Added Pin To Net: NetName=Device_SDA Pin=Additional_I2C_2-1
+Added Pin To Net: NetName=Device_SDA Pin=Additional_I2C_3-1
+Added Net: Name=Device_SDA
+Added Pin To Net: NetName=Encoder_A0 Pin=Encoder ADC-16
+Added Pin To Net: NetName=Encoder_A0 Pin=Encoder Connector-1
+Added Net: Name=Encoder_A0
+Added Pin To Net: NetName=Encoder_A1 Pin=Encoder ADC-15
+Added Pin To Net: NetName=Encoder_A1 Pin=Encoder Connector-2
+Added Net: Name=Encoder_A1
+Added Pin To Net: NetName=Encoder_A2 Pin=Encoder ADC-14
+Added Pin To Net: NetName=Encoder_A2 Pin=Encoder Connector-3
+Added Net: Name=Encoder_A2
+Added Pin To Net: NetName=Encoder_A3 Pin=Encoder ADC-13
+Added Pin To Net: NetName=Encoder_A3 Pin=Encoder Connector-4
+Added Net: Name=Encoder_A3
+Added Pin To Net: NetName=Encoder_A4 Pin=Encoder ADC-12
+Added Pin To Net: NetName=Encoder_A4 Pin=Encoder Connector-5
+Added Net: Name=Encoder_A4
+Added Pin To Net: NetName=Encoder_A5 Pin=Encoder ADC-11
+Added Pin To Net: NetName=Encoder_A5 Pin=Encoder Connector-6
+Added Net: Name=Encoder_A5
+Added Pin To Net: NetName=Encoder_A6 Pin=Encoder ADC-10
+Added Pin To Net: NetName=Encoder_A6 Pin=Encoder Connector-7
+Added Net: Name=Encoder_A6
+Added Pin To Net: NetName=Encoder_A7 Pin=Encoder ADC-9
+Added Pin To Net: NetName=Encoder_A7 Pin=Encoder Connector-8
+Added Net: Name=Encoder_A7
+Added Pin To Net: NetName=FAN_BL_OUT Pin=fan back-left-3
+Added Net: Name=FAN_BL_OUT
+Added Pin To Net: NetName=FAN_BR_OUT Pin=fan back-right-3
+Added Net: Name=FAN_BR_OUT
+Added Pin To Net: NetName=FAN_FL_OUT Pin=fan front-left-3
+Added Net: Name=FAN_FL_OUT
+Added Pin To Net: NetName=FAN_FR_OUT Pin=fan front-right-3
+Added Net: Name=FAN_FR_OUT
+Added Pin To Net: NetName=GPS_FIX Pin=N2-6
+Added Net: Name=GPS_FIX
+Added Pin To Net: NetName=GPS_PPS Pin=N2-8
+Added Net: Name=GPS_PPS
+Added Pin To Net: NetName=GPS_RX Pin=N2-3
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=N2-7
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=GPS_VIN Pin=N2-1
+Added Pin To Net: NetName=GPS_VIN Pin=N2-4
+Added Pin To Net: NetName=GPS_VIN Pin=P3-5
+Added Net: Name=GPS_VIN
+Added Pin To Net: NetName=MISO_3V3 Pin=*-3
+Added Net: Name=MISO_3V3
+Added Pin To Net: NetName=MISO_5V Pin=*-12
+Added Pin To Net: NetName=MISO_5V Pin=*-17
+Added Net: Name=MISO_5V
+Added Pin To Net: NetName=MOSI_3V3 Pin=*-4
+Added Net: Name=MOSI_3V3
+Added Pin To Net: NetName=MOSI_5V Pin=*-11
+Added Pin To Net: NetName=MOSI_5V Pin=*-16
+Added Net: Name=MOSI_5V
+Added Pin To Net: NetName=Motor1_Vout1 Pin=R?-1
+Added Pin To Net: NetName=Motor1_Vout1 Pin=U?-16
+Added Net: Name=Motor1_Vout1
+Added Pin To Net: NetName=Motor1_Vout2 Pin=R?-1
+Added Pin To Net: NetName=Motor1_Vout2 Pin=U?-15
+Added Net: Name=Motor1_Vout2
+Added Pin To Net: NetName=Motor1_Vout3 Pin=R?-1
+Added Pin To Net: NetName=Motor1_Vout3 Pin=U?-14
+Added Net: Name=Motor1_Vout3
+Added Pin To Net: NetName=Motor1Dir Pin=Signal MDD10A.1-1
+Added Net: Name=Motor1Dir
+Added Pin To Net: NetName=Motor1Speed Pin=Signal MDD10A.1-2
+Added Net: Name=Motor1Speed
+Added Pin To Net: NetName=Motor2_Vout1 Pin=R?-1
+Added Pin To Net: NetName=Motor2_Vout1 Pin=U?-16
+Added Net: Name=Motor2_Vout1
+Added Pin To Net: NetName=Motor2_Vout2 Pin=R?-1
+Added Pin To Net: NetName=Motor2_Vout2 Pin=U?-15
+Added Net: Name=Motor2_Vout2
+Added Pin To Net: NetName=Motor2_Vout3 Pin=R?-1
+Added Pin To Net: NetName=Motor2_Vout3 Pin=U?-14
+Added Net: Name=Motor2_Vout3
+Added Pin To Net: NetName=Motor2Dir Pin=Signal MDD10A.1-3
+Added Net: Name=Motor2Dir
+Added Pin To Net: NetName=Motor2Speed Pin=Signal MDD10A.1-4
+Added Net: Name=Motor2Speed
+Added Pin To Net: NetName=Motor3Dir Pin=Signal MDD10A.2/3-1
+Added Net: Name=Motor3Dir
+Added Pin To Net: NetName=Motor3Speed Pin=Signal MDD10A.2/3-2
+Added Net: Name=Motor3Speed
+Added Pin To Net: NetName=Motor4Dir Pin=Signal MDD10A.2/3-3
+Added Net: Name=Motor4Dir
+Added Pin To Net: NetName=Motor4Speed Pin=Signal MDD10A.2/3-4
+Added Net: Name=Motor4Speed
+Added Pin To Net: NetName=Motor5Dir Pin=Signal MDD10A.2/3-6
+Added Net: Name=Motor5Dir
+Added Pin To Net: NetName=Motor5Speed Pin=Signal MDD10A.2/3-7
+Added Net: Name=Motor5Speed
+Added Pin To Net: NetName=Motor6Dir Pin=Signal MDD10A.2/3-8
+Added Net: Name=Motor6Dir
+Added Pin To Net: NetName=Motor6Speed Pin=Signal MDD10A.2/3-9
+Added Net: Name=Motor6Speed
+Added Pin To Net: NetName=Motor7Dir Pin=Signal MDD10A.4-1
+Added Net: Name=Motor7Dir
+Added Pin To Net: NetName=Motor7Speed Pin=Signal MDD10A.4-2
+Added Net: Name=Motor7Speed
+Added Pin To Net: NetName=Motor8Dir Pin=Signal MDD10A.4-3
+Added Net: Name=Motor8Dir
+Added Pin To Net: NetName=Motor8Speed Pin=Signal MDD10A.4-4
+Added Net: Name=Motor8Speed
+Added Pin To Net: NetName=Motor9Dir Pin=Signal MDD10A.5/6-1
+Added Net: Name=Motor9Dir
+Added Pin To Net: NetName=Motor9Speed Pin=Signal MDD10A.5/6-2
+Added Net: Name=Motor9Speed
+Added Pin To Net: NetName=Motor10Dir Pin=Signal MDD10A.5/6-3
+Added Net: Name=Motor10Dir
+Added Pin To Net: NetName=Motor10Speed Pin=Signal MDD10A.5/6-4
+Added Net: Name=Motor10Speed
+Added Pin To Net: NetName=Motor11Dir Pin=Signal MDD10A.5/6-6
+Added Net: Name=Motor11Dir
+Added Pin To Net: NetName=Motor11Speed Pin=Signal MDD10A.5/6-7
+Added Net: Name=Motor11Speed
+Added Pin To Net: NetName=Motor12Dir Pin=Signal MDD10A.5/6-8
+Added Net: Name=Motor12Dir
+Added Pin To Net: NetName=Motor12Speed Pin=Signal MDD10A.5/6-9
+Added Net: Name=Motor12Speed
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=*?-4
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Pin To Net: NetName=Motor_Load1 Pin=R?-2
+Added Net: Name=Motor_Load1
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=R?-2
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R?-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R?-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=C?-2
+Added Pin To Net: NetName=Net*_8 Pin=X?-1
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=C?-2
+Added Pin To Net: NetName=Net*_9 Pin=X?-2
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_19 Pin=R?-2
+Added Net: Name=Net*_19
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=P?-6
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC_1 Pin=C-1
+Added Pin To Net: NetName=NetC_1 Pin=F2-2
+Added Pin To Net: NetName=NetC_1 Pin=P2-1
+Added Net: Name=NetC_1
+Added Pin To Net: NetName=NetC_2 Pin=C-2
+Added Pin To Net: NetName=NetC_2 Pin=C-2
+Added Pin To Net: NetName=NetC_2 Pin=P2-4
+Added Pin To Net: NetName=NetC_2 Pin=RADJ2-2
+Added Net: Name=NetC_2
+Added Pin To Net: NetName=NetCAN Connector_1 Pin=CAN Connector-1
+Added Net: Name=NetCAN Connector_1
+Added Pin To Net: NetName=NetCAN Connector_3 Pin=CAN Connector-3
+Added Net: Name=NetCAN Connector_3
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=RADJ1-1
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=RADJ2-1
+Added Net: Name=NetP2_5
+Added Pin To Net: NetName=SCL_Infrared1 Pin=Infrared 1-3
+Added Net: Name=SCL_Infrared1
+Added Pin To Net: NetName=SCL_Infrared2 Pin=Infrared 2-3
+Added Net: Name=SCL_Infrared2
+Added Pin To Net: NetName=SCL_Infrared3 Pin=Infrared 3-3
+Added Net: Name=SCL_Infrared3
+Added Pin To Net: NetName=SCLK_3V3 Pin=*-5
+Added Net: Name=SCLK_3V3
+Added Pin To Net: NetName=SCLK_5V Pin=*-10
+Added Pin To Net: NetName=SCLK_5V Pin=*-14
+Added Net: Name=SCLK_5V
+Added Pin To Net: NetName=SCL Pin=Encoder ADC-3
+Added Pin To Net: NetName=SCL Pin=N1-5
+Added Pin To Net: NetName=SCL Pin=U?-3
+Added Pin To Net: NetName=SCL Pin=U?-3
+Added Pin To Net: NetName=SCL Pin=U?-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA_Infrared1 Pin=Infrared 1-1
+Added Net: Name=SDA_Infrared1
+Added Pin To Net: NetName=SDA_Infrared2 Pin=Infrared 2-1
+Added Net: Name=SDA_Infrared2
+Added Pin To Net: NetName=SDA_Infrared3 Pin=Infrared 3-1
+Added Net: Name=SDA_Infrared3
+Added Pin To Net: NetName=SDA Pin=Encoder ADC-2
+Added Pin To Net: NetName=SDA Pin=N1-4
+Added Pin To Net: NetName=SDA Pin=U?-2
+Added Pin To Net: NetName=SDA Pin=U?-2
+Added Pin To Net: NetName=SDA Pin=U?-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX2_SCL Pin=TX2_I2C-1
+Added Net: Name=TX2_SCL
+Added Pin To Net: NetName=TX2_SDA Pin=TX2_I2C-2
+Added Net: Name=TX2_SDA
+Added Pin To Net: NetName=Ultrasonic_AO1 Pin=U?-16
+Added Pin To Net: NetName=Ultrasonic_AO1 Pin=Ultrasonic 1-1
+Added Net: Name=Ultrasonic_AO1
+Added Pin To Net: NetName=Ultrasonic_AO2 Pin=U?-15
+Added Pin To Net: NetName=Ultrasonic_AO2 Pin=Ultrasonic 2-1
+Added Net: Name=Ultrasonic_AO2
+Added Pin To Net: NetName=Ultrasonic_AO3 Pin=U?-14
+Added Pin To Net: NetName=Ultrasonic_AO3 Pin=Ultrasonic 3-1
+Added Net: Name=Ultrasonic_AO3
+Added Pin To Net: NetName=VIOUT Pin=C?-1
+Added Pin To Net: NetName=VIOUT Pin=C?-1
+Added Pin To Net: NetName=VIOUT Pin=P?-7
+Added Pin To Net: NetName=VIOUT Pin=P?-7
+Added Net: Name=VIOUT
+Added Class: Name=Instrumentation
+Added Class: Name=MotorControl_Sch
+Added Class: Name=PowerMonitoring
+Added Class: Name=Power
+Added Class: Name=Sensors_Sch
+Added Class: Name=TX2
+Added Room: Name=Instrumentation
+Added Room: Name=MotorControl_Sch
+Added Room: Name=Power
+Added Room: Name=PowerMonitoring
+Added Room: Name=Sensors_Sch
+Added Room: Name=TX2

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=MISO_3V3 Pin=*-3
+Removed Pin From Net: NetName=MOSI_3V3 Pin=*-4
+Removed Pin From Net: NetName=SCLK_3V3 Pin=*-5
+Removed Pin From Net: NetName=24V Pin=*-7
+Removed Pin From Net: NetName=SCLK_5V Pin=*-10
+Removed Pin From Net: NetName=MOSI_5V Pin=*-11
+Removed Pin From Net: NetName=MISO_5V Pin=*-12
+Removed Pin From Net: NetName=C\S\_\5\V\ Pin=*-13
+Change Component Designator: OldDesignator=P1 NewDesignator=DC/DC 5V
+Change Component Designator: OldDesignator=P2 NewDesignator=DC/DC 12V
+Added Pin To Net: NetName=3V3 Pin=*-1
+Added Pin To Net: NetName=C\S\_\3\V\3\ Pin=*-2
+Added Pin To Net: NetName=MISO_3V3 Pin=*-3
+Added Pin To Net: NetName=MOSI_3V3 Pin=*-4
+Added Pin To Net: NetName=SCLK_3V3 Pin=*-5
+Added Pin To Net: NetName=24V Pin=*-7
+Added Pin To Net: NetName=5V Pin=*-8
+Added Pin To Net: NetName=24V Pin=*-10
+Added Pin To Net: NetName=SCLK_5V Pin=*-10
+Added Pin To Net: NetName=MOSI_5V Pin=*-11
+Added Pin To Net: NetName=MISO_5V Pin=*-12
+Added Pin To Net: NetName=C\S\_\5\V\ Pin=*-13
+Added Pin To Net: NetName=5V Pin=*-14
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetDC/DC 5V_5
+Change Net Name : Old Net Name=NetP2_5 New Net Name=NetDC/DC 12V_5
+Added Member To Class: ClassName=PowerMonitoring Member=Component *? INA138
+Added Member To Class: ClassName=PowerMonitoring Member=Component *? INA138
+Added Member To Class: ClassName=PowerMonitoring Member=Component *? INA138
+Added Member To Class: ClassName=PowerMonitoring Member=Component *? INA138
+Added Member To Class: ClassName=PowerMonitoring Member=Component *? INA138
+Added Member To Class: ClassName=MotorControl_Sch Member=Component * TXB0104
+Added Member To Class: ClassName=MotorControl_Sch Member=Component C? 0.1uF
+Added Member To Class: ClassName=MotorControl_Sch Member=Component C? 22pF
+Added Member To Class: ClassName=MotorControl_Sch Member=Component C? 22pF
+Added Member To Class: ClassName=PowerMonitoring Member=Component C? 1nF
+Added Member To Class: ClassName=PowerMonitoring Member=Component C? 10nF
+Added Member To Class: ClassName=PowerMonitoring Member=Component C? 1nF
+Added Member To Class: ClassName=PowerMonitoring Member=Component C? 0.1uF
+Added Member To Class: ClassName=PowerMonitoring Member=Component C? 10nF
+Added Member To Class: ClassName=Power Member=Component C 1000pF
+Added Member To Class: ClassName=Power Member=Component C 22uF
+Added Member To Class: ClassName=Power Member=Component C 120uF
+Added Member To Class: ClassName=Power Member=Component C 120uF
+Added Member To Class: ClassName=Power Member=Component C 1000pF
+Added Member To Class: ClassName=PowerMonitoring Member=Component P? ACS724
+Added Member To Class: ClassName=MotorControl_Sch Member=Component R? 2k
+Added Member To Class: ClassName=MotorControl_Sch Member=Component R? 2k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 10k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 0.01
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 10k
+Added Member To Class: ClassName=PowerMonitoring Member=Component R? 100k
+Added Member To Class: ClassName=Sensors_Sch Member=Component R? 36k
+Added Member To Class: ClassName=PowerMonitoring Member=Component U? ADC128D818
+Added Room: Name=Instrumentation
+Added Room: Name=MotorControl_Sch
+Added Room: Name=Power
+Added Room: Name=PowerMonitoring
+Added Room: Name=Sensors_Sch
+Added Room: Name=TX2
