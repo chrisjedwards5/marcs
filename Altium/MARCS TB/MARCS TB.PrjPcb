@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DKRVPYUE
 
 [Document2]
 DocumentPath=MARCS ARM TB V1 PCB.PcbDoc
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GTBIQLJX
 
 [Document3]
 DocumentPath=MARCS TB ARM Schematic.SchDoc
@@ -87,7 +87,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QJNWSOXE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MARCS TB\Design Rule Check - MARCS ARM TB V1 PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
