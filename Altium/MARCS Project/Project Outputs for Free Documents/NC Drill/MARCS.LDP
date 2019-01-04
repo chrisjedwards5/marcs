@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\chris\Documents\MARCS\marcs\Altium\MARCS Project\MARCS.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=marcs-roundholes.txt|DrillLayers=gtl,gp1,gp2,gp3,gp4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=marcs-slotholes.txt|DrillLayers=gtl,gp1,gp2,gp3,gp4,gbl

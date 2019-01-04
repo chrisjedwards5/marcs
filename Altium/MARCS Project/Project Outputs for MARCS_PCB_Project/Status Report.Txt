@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MARCS_PCB_Project.PrjPcb]
+   Generated File[MARCS.RUL]
+   Generated File[MARCS.EXTREP]
+   Generated File[MARCS.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:39:30 PM On 1/3/2019
