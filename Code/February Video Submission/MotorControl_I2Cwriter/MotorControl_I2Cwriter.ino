@@ -19,6 +19,8 @@ void setup()
 {
   Wire.begin(); // join i2c bus (address optional for master)
   Serial.begin(9600);
+  Serial.println("1 = Forward | 2 = Reverse | 3 = Turn Left | 4 = Turn Right | 0 = Stop");
+  Serial.print("Which Direction would you like?: ");
 }
 
 void loop()

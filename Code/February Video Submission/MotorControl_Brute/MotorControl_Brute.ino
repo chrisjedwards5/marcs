@@ -60,6 +60,7 @@ Servo myservo6;
             myservo4.write(1500);
             myservo5.write(1500);
             myservo6.write(1500);
+            Serial.println("---------------------------");
             break;
           
           //Forward
@@ -83,6 +84,7 @@ Servo myservo6;
             
             Serial.print("PWMval: ");
             Serial.println(PWMval);
+            Serial.println("---------------------------");
             break;
 
           //Reverse
@@ -106,6 +108,7 @@ Servo myservo6;
             
             Serial.print("PWMval: ");
             Serial.println(PWMval);
+            Serial.println("---------------------------");
             break;
           
           //Left Turn
@@ -133,6 +136,7 @@ Servo myservo6;
 
             Serial.print("PWMvalInv: ");
             Serial.println(PWMvalInv);
+            Serial.println("---------------------------");
             
             break;
   
@@ -161,6 +165,7 @@ Servo myservo6;
 
             Serial.print("PWMvalInv: ");
             Serial.println(PWMvalInv);
+            Serial.println("---------------------------");
             
             break;
   
@@ -179,6 +184,7 @@ Servo myservo6;
             myservo4.write(1500);
             myservo5.write(1500);
             myservo6.write(1500);
+            Serial.println("---------------------------");
             break;
         }
 
