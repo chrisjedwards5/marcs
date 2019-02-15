@@ -1,4 +1,6 @@
+//
 
+//Using servo objects for the talons because they're weird
 #include <Servo.h>
 #include <Wire.h>
 
@@ -9,6 +11,7 @@ int PWMvalInv = 0;
 int speedByte = 0;
 int dirByte = 0;
 
+//attach motors to servo objects
 Servo myservo1;  //creating servo objects for each individual talon
 Servo myservo2;  
 Servo myservo3; 
@@ -37,13 +40,14 @@ Servo myservo6;
     }
   
   
-
+  //executes every time something is sent over i2c
   void receiveEvent(int howMany)
     {
- 
+      //set the first byte to dirByte and the second to speedByte
       dirByte = Wire.read();
       speedByte = Wire.read();
           
+      //case statement to determine which direction and speed to go
       switch (dirByte) 
         {
           case 0:
