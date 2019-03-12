@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp
+"marcsv2\startup_stm32f401xc.o"
+"marcsv2\main.o"
+"marcsv2\stm32f4xx_it.o"
+"marcsv2\stm32f4xx_hal_msp.o"
+"marcsv2\stm32f4xx_hal_i2c.o"
+"marcsv2\stm32f4xx_hal_i2c_ex.o"
+"marcsv2\stm32f4xx_hal_spi.o"
+"marcsv2\stm32f4xx_hal_tim.o"
+"marcsv2\stm32f4xx_hal_tim_ex.o"
+"marcsv2\stm32f4xx_hal_uart.o"
+"marcsv2\stm32f4xx_hal_rcc.o"
+"marcsv2\stm32f4xx_hal_rcc_ex.o"
+"marcsv2\stm32f4xx_hal_flash.o"
+"marcsv2\stm32f4xx_hal_flash_ex.o"
+"marcsv2\stm32f4xx_hal_flash_ramfunc.o"
+"marcsv2\stm32f4xx_hal_gpio.o"
+"marcsv2\stm32f4xx_hal_dma_ex.o"
+"marcsv2\stm32f4xx_hal_dma.o"
+"marcsv2\stm32f4xx_hal_pwr.o"
+"marcsv2\stm32f4xx_hal_pwr_ex.o"
+"marcsv2\stm32f4xx_hal_cortex.o"
+"marcsv2\stm32f4xx_hal.o"
+"marcsv2\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "MARCSV2\MARCSV2.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "MARCSV2.map" -o MARCSV2\MARCSV2.axf
